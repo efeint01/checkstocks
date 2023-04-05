@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check Stocks</string>
+    <string name="empty_view_title">Ehh, Symbol not found\n Try hit 🔍 Icon</string>
+    <string name="symbol_not_found">Symbol not found</string>
+</resources>
