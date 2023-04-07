@@ -2,6 +2,7 @@
 # Check Stocks
 
 Check Stocks is a Java-based OOP Android app that provides real-time stock information and charts using the NASDAQ API. It features an intuitive user interface, making it a convenient tool for monitoring the stock market.
+App Video: https://youtu.be/xbDZpCnlveY
 
 ![Logo](https://i.ibb.co/XYFZpM2/Ba-l-ks-z-2.png)
 
